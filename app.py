@@ -1,2 +1,3 @@
 a = 5
-print(f"Hello word{a}")
+b= 6
+print(f"Hello word{a} and {b}")
